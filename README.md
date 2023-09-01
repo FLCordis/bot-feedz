@@ -21,6 +21,7 @@ Rodar no terminal
 ```javascript
 node script.js
 ```
+Rodar apenas uma vez, por que depois da primeira vez, os botões da pesquisa somem e ai é só no outro dia, fazendo o bot travar (CTRL + C para encerrar o script).
 
 # Bibliotecas usadas 📖
 
