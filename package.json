@@ -2,5 +2,24 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "puppeteer": "^21.1.1"
-  }
+  },
+  "name": "bot-feedz",
+  "description": "Muitas empresas possuem sites que buscam saber sobre a satisfação diária do empregado, esse bot faz com que você sempre responda todos os dias rapidamente sem esquecer :)",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLCordis/bot-feedz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FLCordis/bot-feedz/issues"
+  },
+  "homepage": "https://github.com/FLCordis/bot-feedz#readme"
 }
