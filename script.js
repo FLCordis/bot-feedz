@@ -6,7 +6,7 @@ console.log("Carregando o bot para o Feedz! 🤖");
 
 (async function robo(){
     //Executa o navegador e abre uma página nova | {headless: false} para ver o navegador abrindo
-    const browser = await puppeteer.launch({headless: false});
+    const browser = await puppeteer.launch({headless: 'new'});
     const page = await browser.newPage();
 
     //Carrega a página e preenche os dados
